@@ -1,4 +1,3 @@
-📖 README.md
 # React.js & Node.js Login/Logout Flow (MongoDB Atlas)
 
 ## 🚀 Features
@@ -15,7 +14,8 @@ cd backend
 npm install
 node server.js
 
-Frontend
+### Frontend
+
 cd frontend
 npm install
 npm start
@@ -30,6 +30,4 @@ Host backend on Render/Heroku.
 
 Host frontend on Vercel/Netlify.
 
-Update API URLs accordingly.
-
----
+Update API URLs accordingly. 
